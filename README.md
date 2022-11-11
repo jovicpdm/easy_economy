@@ -1,16 +1,18 @@
-# easy_economy
+# Economia Fácil
 
-A new Flutter project.
+Um gestor financeiro rápido, fácil e offline
 
-## Getting Started
+### Objetivo do aplicativo
 
-This project is a starting point for a Flutter application.
+O objetivo do aplicativo **Economia Fácil** é proporcionar uma maneira simples e rápida de gerenciar os gastos do mês.
 
-A few resources to get you started if this is your first Flutter project:
+### Requisitos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Ter o Flutter instalado e rodando na máquina
+- Emulador ou dispositivo Android/IOS
+- Ter o projeto clonado em sua máquina
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Como rodar
+
+Após a clonagem em sua máquina, instale os pacotes dart `flutter pub get`, após isso basta executar o aplicativo no Android Studio, VSCODE ou via linha de comando: `flutter run`
+
